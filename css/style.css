@@ -44,7 +44,7 @@ iframe {
 /* Настройка header */
 
 header {
-   background: linear-gradient(to top, rgba(98, 20, 2, 0.9), transparent), url("/image/bg.jpg"), no-repeat;
+   background: linear-gradient(180deg, rgba(98, 20, 2, 0.31)0%, #621402 85.62%), url("/image/bg.jpg"), no-repeat center top / cover;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -325,3 +325,4 @@ option {
     }
 
 }
+
